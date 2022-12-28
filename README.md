@@ -1,5 +1,5 @@
 # mnist_digits_wgan-gp
-Implementation of a Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) [See https://arxiv.org/abs/1701.07875, https://arxiv.org/pdf/1704.00028.pdf] which is trained to mimick the MNIST handwritten digit database.
+Implementation of a Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) [See https://arxiv.org/abs/1701.07875, https://arxiv.org/pdf/1704.00028.pdf] which is trained to mimick the MNIST handwritten digit database.  This implementation follows a tutorial from the book Machine Learning with PyTorch and Scikit-Learn by Raschka, Liu and Mirjalili (2022, Packt Publishing).
 
 The following files are included:
 
